@@ -18,15 +18,15 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hello World 👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  Sobre mim</h3>
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">Olá, bem vindo ao meu perfil<br>
 
 ###
 
